@@ -127,6 +127,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 202949827900416306, guid: 32d6f2458d078a94db8f2a475f49c703, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 3d688ef310310c540ad698d3452131dc, type: 2}
     - target: {fileID: 264613836272012892, guid: 32d6f2458d078a94db8f2a475f49c703, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -141,7 +145,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3501115118759125814, guid: 32d6f2458d078a94db8f2a475f49c703, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3621644263508401326, guid: 32d6f2458d078a94db8f2a475f49c703, type: 3}
       propertyPath: m_LocalPosition.x
@@ -183,6 +187,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4625220380584543137, guid: 32d6f2458d078a94db8f2a475f49c703, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 3d688ef310310c540ad698d3452131dc, type: 2}
     - target: {fileID: 5198635795310289829, guid: 32d6f2458d078a94db8f2a475f49c703, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -562,6 +570,10 @@ PrefabInstance:
     - target: {fileID: 6519280213260042260, guid: da4684ac50188af49ac94fae938ee606, type: 3}
       propertyPath: m_Name
       value: BrownHorse
+      objectReference: {fileID: 0}
+    - target: {fileID: 6519280213260042260, guid: da4684ac50188af49ac94fae938ee606, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
